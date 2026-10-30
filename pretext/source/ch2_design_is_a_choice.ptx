@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-design-is-a-choice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Design Is a Choice</title>
+
+  <introduction>
+    <p>
+      Once the purpose of a study is clear, the work of design begins. As Lucie observed, <q>Designing an experiment isn't always as easy as they lay out in a textbook. There's often questions that come up and decisions to be made.</q> Designing a study requires good judgement.
+    </p>
+    <p>
+      The question sets requirements for the design, but more than one design may meet them. Standard designs provide tested ways of allocating treatments and accounting for variation. They are valuable starting points, but researchers must draw on knowledge of the subject and the research setting as well as statistical principles to decide which best fits the study.
+    </p>
+    <p>
+      The setting is part of the design, not a constraint to be accommodated after a layout has been chosen. It can make some design choices more sensible than others and reveal opportunities that were not apparent on paper.
+    </p>
+    <p>
+      The simplest design capable of producing the necessary evidence should remain the starting point. Any additional complexity needs a clear reason.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-design-is-a-choice-designing-for-the-revised-question">
+    <title>Designing for the Revised Question</title>
+    <p>
+      <em>Source podcast: On-station Agricultural Trials</em>
+    </p>
+    <p>
+      The revised irrigation question from <xref ref="ch-worthwhile-question"/> explored water treatment and variety together, to establish whether the relative performance of the varieties changed across the three water regimes.
+    </p>
+    <p>
+      The water treatment was the first factor, with three levels. Adding varieties introduced a second factor, with four levels.Testing each of the four varieties at all three water levels produced twelve treatment combinations. Together, these form a factorial treatment structure. This establishes which treatments the experiment needs to include. It does not determine how they should be arranged in the field.
+    </p>
+    <p>
+      The original design already provided four repetitions of each water regime, arranged as twelve large irrigation areas: three in each of four blocks. If the twelve water-and-variety combinations had all been allocated to areas of the same size, each block would have needed twelve areas large enough for the irrigation treatment—forty-eight across the experiment.
+    </p>
+    <p>
+      There was no reason to use such a large area for each variety. Roger explained that irrigation often needs a large area when researchers are controlling the amount of water applied, whereas variety does not. The twelve large irrigation areas already planned could therefore each be divided into four smaller sections. One water regime would be applied to the whole area, and a different variety planted in each section. This tested every variety under every water regime without creating forty-eight separate large irrigation areas.
+    </p>
+    <p>
+      This arrangement is called a split-plot design. The large irrigation areas are the main plots, and the variety sections within them are the subplots. It was chosen because the two treatments could be applied at different scales.
+    </p>
+    <p>
+      The research question determined what needed to be studied together. The physical requirements of applying irrigation shaped how the experiment could be arranged.
+    </p>
+  </section>
+
+  <section xml:id="sec-design-is-a-choice-twelve-plots-for-ten-varieties">
+    <title>Twelve Plots for Ten Varieties</title>
+    <p>
+      <em>Source podcast: A Story of Uneven Plots and Replicates</em>
+    </p>
+    <p>
+      Roger used a field problem when interviewing statisticians for a post supporting agricultural researchers. He wanted to know whether they could think beyond the standard designs they had learned to analyse.
+    </p>
+    <p>
+      In the example he used, a researcher was planning an experiment with ten crop varieties and expected to use four or five replicates. When he met the farm manager, he learned that the available field would take five blocks running across the slope. At the usual plot size, each block would be twelve plots wide. The field therefore provided sixty plots: five blocks of twelve for an experiment that had ten treatments.
+    </p>
+    <p>
+      Roger asked each candidate what the researcher could do.
+    </p>
+  </section>
+
+  <section xml:id="sec-design-is-a-choice-what-the-field-makes-possible">
+    <title>What the Field Makes Possible</title>
+    <p>
+      <em>Source podcasts: A Story of Uneven Plots and Replicates; On-station Agricultural Trials</em>
+    </p>
+    <p>
+      Roger once asked candidates how they would use a field that did not fit a standard variety trial exactly. A researcher wanted to compare ten crop varieties. Because the field sloped, five blocks running across it made sense. At the usual plot size, however, each block was wide enough for twelve plots rather than ten.
+    </p>
+    <p>
+      One candidate interpreted the problem through a conventional randomised block design. With ten varieties appearing once in every block, each block required ten plots. Within that reasoning, there appeared to be no way to include all twelve plots, so the remaining two would be left unused. This was an entirely valid solution. Its limitation was that it treated the two additional plots only as a problem. Instead Roger encourages researchers to consider that the extra space might be an opportunity to ask what else the experiment could usefully achieve.
+    </p>
+    <p>
+      The additional plots create several reasonable options. If the breeders have two more varieties worth testing, they can include twelve varieties while retaining a conventional design. They can instead repeat an important reference variety to strengthen comparisons with it.
+    </p>
+    <p>
+      The ten additional plots across the field can also be distributed so that each of the ten varieties appears once more. Every variety then has six observations, although the field contains only five blocks.
+    </p>
+    <p>
+      This arrangement challenges what Roger calls <q>the myth that blocks equal replicates.</q> In a conventional randomised block design, every variety appears once in every block, so the number of blocks matches the number of observations of each variety. Here, the blocks account for the slope, while replication describes how often each variety is observed. The two numbers need not match. The resulting arrangement is less regular, but it remains valid and analysable.
+    </p>
+    <p>
+      The width of the field can also be used to create ten larger plots or provide guard rows. If tall varieties might shade shorter ones, protecting the comparison from that interference may be more valuable than gaining additional observations. This illustrates Roger's rule that <q>the agriculture trumps the statistics.</q> Agricultural requirements should determine whether the plots are suitable; statistical neatness cannot compensate for interference between them.
+    </p>
+    <p>
+      The additional space creates a further possibility: adding a factor. Instead of comparing ten varieties under one set of management conditions, researchers could test each of six varieties at two fertiliser levels or weeding regimes.
+    </p>
+    <p>
+      Similar to the irrigation example, a second factor allows researchers to examine whether the relative performance of the varieties changes when the management changes. This option does reduce the number of varieties and makes the study more complex so the relationship must be important enough to justify the change.
+    </p>
+    <p>
+      The point is not to identify one correct use of the field. It is to make the credible possibilities visible, explain what each would contribute and leave the researcher to decide which best serves the study's objectives and priorities. The field does not dictate a single design. Its unexpected width creates opportunities that may be missed if a standard layout is applied automatically.
+    </p>
+  </section>
+
+  <section xml:id="sec-design-is-a-choice-testing-varieties-under-the-intended-practice">
+    <title>Testing Varieties Under the Intended Practice</title>
+    <introduction>
+      <p>
+        <em>Source podcast: RMS and Interactions</em>
+      </p>
+    </introduction>
+    <subsection xml:id="subsec-design-is-a-choice-when-performance-depends-on-the-practice">
+      <title>When Performance Depends on the Practice</title>
+      <p>
+        David Stern recalled visiting an agricultural research station where researchers were examining a disagreement about how sorghum and cowpea should be planted. The researchers had advised farmers to plant the crops in separate rows. The farmers replied that this was not how they grew them: they planted the sorghum and cowpea seeds together in the same pocket.
+      </p>
+      <p>
+        Their response changed what the experiment needed to compare. Testing both variety pairs only under the row arrangement proposed by the researchers would show how they performed in rows. It would not show whether they were suited to the practice farmers used.
+      </p>
+      <p>
+        Therefore, in the four plots the farmer sorghum and cowpea were grown together, as were the research sorghum and cowpea. Each pair was tested in separate rows and in the same planting pocket.
+      </p>
+      <p>
+        The pattern was immediately visible. Two plots looked healthy, while the other two were almost bare. The farmer varieties grew well in the same pocket but poorly in rows. The research varieties grew well in rows but poorly in the same pocket.
+      </p>
+      <p>
+        This is the pattern of an interaction. Neither pair was simply better; which pair performed well depended on the planting arrangement. All four combinations were needed to reveal that relationship. If the farmer varieties had been grown only in the same pocket and the research varieties only in rows, both pairs would have appeared successful. The origin of the varieties and the planting arrangement would have been inseparable. Testing each pair under both arrangements made their dependence visible.
+      </p>
+      <p>
+        This matters for how the findings could be used. Farmer varieties tested only in rows might have been judged unsuccessful even though they performed well under the practice farmers used. Research varieties tested only in rows might have been recommended to farmers without being tested under the same-pocket practice in which farmers intended to grow them.
+      </p>
+      <p>
+        Both of these arrangements could be described as intercropping, but that did not make them the same practice. Separate rows and a shared planting pocket placed the crops in different relationships with one another. Crop density, sowing time and the particular companion varieties can also alter relationships. A design intended to inform a specific farming practice needs to preserve the features of that practice.
+      </p>
+      <p>
+        The observed interaction did not explain why it occurred. David's observations suggested further questions. Did the spreading cowpea and upright sorghum use the available space more effectively together? Did differences in their growth timing reduce competition? Did planting them in the same pocket change their competition for light, water or nutrients? Answering those questions would require further studies designed to distinguish among the possible explanations. This comparison made the interaction visible and showed why the planting practice belonged in the design; explaining the result opens avenues for further enquiry.
+      </p>
+    </subsection>
+    <subsection xml:id="subsec-design-is-a-choice-what-are-we-selecting-for">
+      <title>What Are We Selecting For?</title>
+      <p>
+        The four-plot design made the relationship between planting practice and varietal performance visible. It also raises a further design question: at what stage in a breeding programme should candidate varieties be tested under the practice for which they are intended?
+      </p>
+      <p>
+        David wondered whether the observed pattern reflected different histories of selection. He understood the farmer varieties to have been retained while being grown together, whereas the research varieties had largely been selected in pure stands or rows. The four plots could not establish those histories or show that they caused the pattern. They nevertheless raised a broader question: when candidates are repeatedly tested under one planting system, does the programme favour varieties suited to that system?
+      </p>
+      <p>
+        Research elsewhere in West Africa shows how the intended cropping system can shape an earlier stage of selection. In Burkina Faso, Ganeme and colleagues worked with farmers who grew sorghum and cowpea together in the same planting hole. Most considered the choice of sorghum variety important. They identified plant height, leaf number and stem diameter as relevant traits and reported that sorghum varieties casting too much shade could harm the cowpea. The researchers then characterised 50 sorghum varieties and identified groups with contrasting canopy and root traits. The study did not establish which varieties would perform best in the intercrop. Instead, the intended practice helped shape the design of the next stage by identifying traits and contrasting varieties for further testing (Ganeme et al., 2022).
+      </p>
+      <p>
+        In the Nigerian cowpea-breeding programme, the intended cropping system entered later in the selection process. Sole-crop trials first identified promising lines. Intercrop trials then showed which could maintain their performance when grown with maize. Some lines lost more yield than others, while two performed strongly under both cropping systems and later in on-farm trials (Omoigui et al., 2023).
+      </p>
+      <p>
+        Testing under the intended system does not always change which varieties appear promising. Raboin and colleagues found that 30 sorghum varieties had broadly similar rankings when grown in pure stands and in an alternating-row intercrop with one cowpea variety. For that system, promising varieties could generally be identified under pure cropping. This study provides an important qualification: including both systems in the design allows researchers to establish whether the cropping system changes the relative performance of the varieties, rather than assuming that it will (Raboin et al., 2025).
+      </p>
+      <p>
+        Together, these studies show that the intended cropping system can enter a breeding programme at different stages. Breeders may begin by comparing many candidates under common management conditions, then evaluate promising candidates under the practice for which they are intended. What matters is that those conditions enter the process in time to inform selection and recommendation. Whether relative performance changes or remains stable, the design must make that result observable. Otherwise, the programme risks selecting varieties suited to its testing system rather than to the farming system it is intended to serve.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-design-is-a-choice-making-the-possibilities-visible">
+    <title>Making the Possibilities Visible</title>
+    <p>
+      <em>Source podcasts: A Story of Uneven Plots and Replicates; On-station Agricultural Trials</em>
+    </p>
+    <p>
+      Design sets out how a study will produce the evidence needed to answer its question. It determines what the findings can show and the conditions they represent.
+    </p>
+    <p>
+      Research-methods support can help researchers see those choices more clearly. Roger describes this as helping to <q>open the mind</q>: showing where convention is being mistaken for necessity, explaining the consequences of possible designs and giving confidence that a less regular but well-reasoned study can still be analysed. The adviser does not choose on the researcher's behalf; the purpose and priorities of the study guide that decision.
+    </p>
+    <p>
+      Providing this support requires expertise in creating a study as well as analysing it. Statistical knowledge can clarify what each possible design would allow the study to learn and where its limitations lie. Agricultural knowledge is needed to judge whether treatments can be applied sensibly and whether the conditions of the study are meaningful for the way its findings will be used. The work of design is to bring these forms of knowledge together in a study that makes the important relationships observable and produces evidence relevant to its intended use.
+    </p>
+  </section>
+
+  <references xml:id="refs-design-is-a-choice">
+    <title>References</title>
+    <biblio type="raw">Ganeme, A., Kondombo, C. P., Raboin, L.-M., Dusserre, J., Kabore, R., Adam, M. and Traoré, S. (2022). Characterizing sorghum (<em>Sorghum bicolor</em> [L.] Moench) varieties diversity to identify those with contrasting traits of interest for intercropping systems in the Sudano-Sahelian zone of West Africa. <em>Plant Genetic Resources</em>, 20(2), 87–97. <url href="https://doi.org/10.1017/S1479262122000168">https://doi.org/10.1017/S1479262122000168</url></biblio>
+    <biblio type="raw">Omoigui, L. O., Kamara, A. Y., Shaibu, A. S., Aliyu, K. T., Tofa, A. I., Solomon, R. and Olasan, O. J. (2023). Breeding cowpea for adaptation to intercropping for sustainable intensification in the Guinea Savannas of Nigeria. <em>Agronomy</em>, 13, 1451. <url href="https://doi.org/10.3390/agronomy13061451">https://doi.org/10.3390/agronomy13061451</url></biblio>
+    <biblio type="raw">Raboin, L.-M., Ouedraogo, N., Kabore, M., Zabre, Y., Ganeme, A., Bonnal, L., Assouma, M. H., Gozé, E. and Dusserre, J. (2025). Sorghum genetic variability for adaptation to intercropping with cowpea in Sudano-Sahelian conditions. <em>Field Crops Research</em>, 330, 109984. <url href="https://doi.org/10.1016/j.fcr.2025.109984">https://doi.org/10.1016/j.fcr.2025.109984</url></biblio>
+  </references>
+
+</chapter>
