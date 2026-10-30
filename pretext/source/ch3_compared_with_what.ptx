@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-compared-with-what" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Compared with What?</title>
+
+  <introduction>
+    <p>
+      Most research findings are comparisons. A crop yields more, a storage method slows deterioration or a new practice performs better. None of those statements has much meaning until the study establishes what the result is being compared with. A control makes that comparison explicit. It represents the condition against which the other treatments will be judged.
+    </p>
+    <p>
+      Problems can arise when researchers include a conventional control simply to satisfy the rule of having one. Roger argues that a control is itself a treatment and should be chosen with the same care as any other. Its form should follow the objectives of the study, even when this means departing from conventional ideas about what a control should look like.
+    </p>
+    <p>
+      The task is to decide which comparison will answer the research question, whether it can be sustained under the conditions of the study and what must be recorded to know what it represents in practice. Researchers must continue to examine that comparison as the study unfolds, because a control can retain its label even after the comparison it was meant to provide has changed.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-compared-with-what-a-sensible-treatment">
+    <title>A Sensible Treatment</title>
+    <p>
+      <em>Source podcast: 184 — Twenty Years of RMS for CRFS: Controls</em>
+    </p>
+    <p>
+      No-treatment conditions are often used as controls. They are appropriate only when they represent a meaningful alternative and support the comparison the study is intended to make.
+    </p>
+    <p>
+      Lucie Hazelgrove Planel recalls an experiment on vegetable storage. The study took place in a setting where electricity and refrigeration were unavailable and vegetables were stored in large earthenware jars. It compared vegetables kept in the jars with vegetables left exposed, recording their weight and visual appearance over approximately two weeks.
+    </p>
+    <p>
+      The problem was immediately visible in the data. Measurements for the vegetables outside the jars were available for only the first two days. After that came zeros, blanks or perhaps a notation meaning not applicable. The intended control had stopped producing observations that could be compared with the jar treatments over the planned period.
+    </p>
+    <p>
+      This could be seen as a missing-data problem, but Roger identified a problem with the comparison itself. The jar treatments allowed deterioration to be followed over two weeks. Leaving the vegetables exposed established something different: without protection, they lasted only a few days. The exposed condition could not serve as a control for the intended two-week comparison.
+    </p>
+    <p>
+      The exposed condition could still provide useful evidence. However, because the difference was so clear, it did not need to be replicated and measured as part of the main experiment. Roger suggests this could be included in a small separate exercise showing how long vegetables lasted without protection. The main experiment could then compare storage options that could all be followed over the full period. This would keep two questions distinct: whether the jars extended storage at all, and which workable storage option performed best over a longer period.
+    </p>
+    <p>
+      The example shows that choosing a control may require preliminary enquiry. Lucie suggested using a preliminary survey to identify these practices before designing the experiment. What did people without earthenware jars actually do? They might use another container or buy vegetables more frequently. The control could then represent a genuine alternative to jar storage rather than the artificial condition of leaving vegetables exposed.
+    </p>
+    <p>
+      Here, treating the control as another treatment brings the decision into focus. The exposed condition was informative, but it could not provide the longer comparison required by the main experiment. That comparison needed a reference condition that remained meaningful and observable over the full period.
+    </p>
+  </section>
+
+  <section xml:id="sec-compared-with-what-more-than-one-answer-to-compared">
+    <title>More than One Answer to <q>Compared With What?</q></title>
+    <p>
+      <em>Source podcast: 184 — Twenty Years of RMS for CRFS: Controls</em>
+    </p>
+    <p>
+      While existing farmer practice can provide meaningful comparisons, it does not necessarily identify a single , fixed condition. It may differ among farmers and reflect either habit or preference.
+    </p>
+    <p>
+      In farmer-managed variety trials, for example, <q>local</q> does not necessarily identify one reference variety. Tricot is a decentralised approach in which each farmer tests a small subset of varieties drawn from a much larger set. Farmers receive three coded varieties and later rank them. Results from many farmers allow the larger set to be assessed even though each person grows only three (van Etten et al., 2019).
+    </p>
+    <p>
+      One idea under discussion in tricot is to add a familiar local variety as a fourth plot. Farmers would know the identity of this reference variety, while the three experimental varieties remain coded. Roger uses this idea to explore some of the choices involved in defining a local reference.
+    </p>
+    <p>
+      The local reference can be defined in different ways, and each design answers a different question. A single variety grown on every farm provides a consistent benchmark across the study. Allowing each farmer to choose the reference makes the comparison specific to that farmer, but the reference then varies between farms and may differ in seed quality and farmers' prior experience. Including both shows whether an experimental variety performs better than both the common benchmark and farmers' own varieties, or only one of them. The combined design adds another plot and another set of comparisons, so the information gained must justify the additional demands on participating farmers.
+    </p>
+    <p>
+      Allowing each farmer to choose the reference creates another distinction. A habitual variety would represent current practice: how do the experimental varieties compare with what this farmer normally grows? A preferred variety represents the farmer's own benchmark: how do they compare with the variety the farmer would choose if free to select any? In either case asking why the farmer chooses it can add important information. Taste, colour or yield might all explain why that variety matters to them.
+    </p>
+    <p>
+      Defining a local control therefore requires judgement about which comparison matters: performance against a common benchmark, against what farmers normally grow, against what they would choose, or against more than one of these.
+    </p>
+  </section>
+
+  <section xml:id="sec-compared-with-what-when-the-control-learns-from-the">
+    <title>When the Control Learns from the Treatment</title>
+    <p>
+      <em>Source podcast: 184 — Twenty Years of RMS for CRFS: Controls</em>
+    </p>
+    <p>
+      The differences in the tricot example exist before the experiment begins. Farmer practice can also change during a study, particularly when the treatment introduces information that farmers can apply elsewhere.
+    </p>
+    <p>
+      Roger describes an experiment to test climatic advice at many sites. Each farmer manages four plots. Two receive advice about when to plant and weed; one is fertilised and the other is not. The remaining two plots, again with and without fertiliser, are intended to show what farmers do without the advice.
+    </p>
+    <p>
+      The design assumed that farmers would use the advice only on the two designated plots, as though information could be confined in the same way as fertiliser. Once farmers had heard the advice, however, it became part of what they knew. Some applied parts of it to the control plots, with different farmers choosing different elements. Lucie describes this as <q>very sensible</q>: preserving the control would have required farmers to ignore information that appeared useful. The issue was therefore not simply a departure from the protocol. The design had not allowed for the advice itself to change how farmers managed every plot.
+    </p>
+    <p>
+      That change altered what the control plots represented. They no longer showed what farmers would have done without the advice; they showed how farmers responded after receiving it. Some accepted particular elements, while others rejected them or combined them with their existing practices.
+    </p>
+    <p>
+      Once the intended control begins to change, Roger's practical rule applies: if something cannot be controlled, measure it. Researchers should record what farmers do in the control plots as carefully as they record the intervention.
+    </p>
+    <p>
+      In this study, the researchers recorded what was done in the advised plots but did not collect the same information from the controls. At the end, they had yields attached to four treatment labels without knowing which practices had produced the control yields. The labels no longer described four distinct sets of practices, so the controls had lost their meaning.
+    </p>
+    <p>
+      Roger suggests that the study could have been adapted by recording how farmers managed the control plots, asking which recommendations they followed and what they thought of the advice. These records would not recreate the original control, but they would allow the yields to be interpreted in relation to the advice used. The study could then provide evidence about the value of the climatic advice in practice.
+    </p>
+    <p>
+      A control is defined by what happens in practice, not only by its label in the design. If the intervention changes the control, researchers need to measure that change and interpret the results against the conditions that occurred.
+    </p>
+  </section>
+
+  <section xml:id="sec-compared-with-what-choosing-a-defensible-control">
+    <title>Choosing a Defensible Control</title>
+    <p>
+      <em>Source podcast: 184 — Twenty Years of RMS for CRFS: Controls</em>
+    </p>
+    <p>
+      The climate-advice example raises a broader question: what can researchers reasonably ask participants to do in order to preserve a control? This question is especially important when the control requires a condition that is unrealistic, costly or already known to perform poorly. A no-treatment condition may create a clear contrast on paper but researchers must also consider whether the condition is ethical and practical to maintain.
+    </p>
+    <p>
+      The ethical issue is clearest in medical research. A placebo or no-treatment control may be unacceptable when an effective treatment is available. Some trials must stop once one treatment is shown to be better so that everyone can receive it. Crop experiments do not usually involve the same immediate risks, but the ethical question remains. Farmers commit land and labour to the research. Asking them to withhold fertiliser when a poor result is expected can impose a real cost. Methodological familiarity does not make a no-treatment control ethically neutral.
+    </p>
+    <p>
+      Some controls can create practical problems. An unweeded plot, for example, may not remain contained. Weeds can spread beyond it, overwhelm the guard rows and affect neighbouring plots. The control then does more than produce a predictably poor yield: it changes the conditions of the other treatments and weakens the comparisons the experiment was designed to make.
+    </p>
+    <p>
+      Ethical and practical considerations are part of choosing a control. The aim is not to create the sharpest possible contrast, but to establish a meaningful comparison. A condition that imposes an unreasonable cost on participants, cannot be maintained or alters neighbouring treatments is not a sensible control and can weaken the evidence it was included to provide.
+    </p>
+  </section>
+
+  <section xml:id="sec-compared-with-what-what-would-have-happened-otherwise">
+    <title>What Would Have Happened Otherwise?</title>
+    <p>
+      A control can appear to be the neutral background against which an intervention acts. In practice, it is a condition chosen as part of the design and put into practice within the study. No intervention, existing practice and a participant's own choice represent different alternatives and support different conclusions. Treating the control as another treatment makes that judgement explicit.
+    </p>
+    <p>
+      What would have happened otherwise is therefore neither self-evident nor necessarily fixed. The treatment label records the intended alternative, but rigour comes from establishing what the control represented in practice and whether it remained credible. This may require a different control, more than one control or a separate study. When the intervention changes the control, the claim must change with it.
+    </p>
+  </section>
+
+  <references xml:id="refs-compared-with-what">
+    <title>References</title>
+    <biblio type="raw">van Etten, J., Beza, E., Calderer, L., van Duijvendijk, K., Fadda, C., Fantahun, B., Kidane, Y. G., van de Gevel, J., Gupta, A., Mengistu, D. K., Kiambi, D. A. N., Mathur, P. N., Mercado, L., Mittra, S., Mollel, M. J., Rosas, J. C., Steinke, J., Suchini, J. G. and Zimmerer, K. S. (2019). First experiences with a novel farmer citizen science approach: crowdsourcing participatory variety selection through on-farm triadic comparisons of technologies (tricot). <em>Experimental Agriculture</em>, 55(S1), 275–296. <url href="https://doi.org/10.1017/S0014479716000739">https://doi.org/10.1017/S0014479716000739</url></biblio>
+  </references>
+
+</chapter>

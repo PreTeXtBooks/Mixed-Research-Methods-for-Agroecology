@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-worthwhile-question" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Begin with a Worthwhile Question</title>
+
+  <introduction>
+    <p>
+      Research should begin by deciding what is worth finding out. Developing and refining that question gives the study its purpose. A worthwhile research question identifies something that is not yet sufficiently understood and matters enough to investigate. This requires the team to examine what is already known and decide what useful contribution the proposed work can make.
+    </p>
+    <p>
+      That contribution does not have to be a completely unprecedented discovery. Research may establish whether an existing finding applies under different conditions, estimate the size of an effect, explain why responses differ or provide evidence for a particular decision. What matters is that the objective is clear: the team should be able to say what it expects to learn that is not already known. Without that clarity, a technically sound study can produce a result that adds little to existing knowledge.
+    </p>
+    <p>
+      The research question will lead the design choices about treatments, layout and measurements, as these determine the evidence it can produce. If those choices become fixed before the question is clear, they can restrict what the study is able to investigate. Planning may reveal a more informative relationship or a sharper comparison. The question can then be refined while continuing to guide what the design must do.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-worthwhile-question-a-design-in-search-of-a">
+    <title>A Design in Search of a Question</title>
+    <p>
+      When Roger met with an irrigation engineer and a research director to discuss a dry-season maize trial, the design was already well developed. The experiment compared three irrigation treatments: a relatively large amount of water, a medium amount and a minimum amount. Each treatment would be replicated four times, giving twelve plots arranged in four blocks. One maize variety would be grown throughout, with crop development measured during the season and yield recorded at the end.
+    </p>
+    <p>
+      The proposed trial had the main components of a sound agricultural experiment: clearly defined treatments, replication within a blocked layout and relevant measurements of crop growth and yield. Considerable technical planning had already been done. Its design was clearer than its purpose.
+    </p>
+    <p>
+      From the proposal, the only objective Roger could infer was to establish whether maize given more water would produce a higher yield than maize given very little. He and the irrigation engineer agreed that this general relationship was already understood. The experiment needed a research question that identified what remained to be learned.
+    </p>
+    <p>
+      Rather than abandon the proposed experiment, they looked for a more useful question within it. The engineer's suggestion to include different varieties shifted the enquiry from the general response of maize to water to whether varieties responded differently across the irrigation regimes.
+    </p>
+    <p>
+      The general response to water was familiar, and so was the performance of different varieties. What remained less clear was whether their relative performance changed with water availability: would some cope better than others when water was limited? In statistical language, this is an interaction: the effect of one factor depends on the level of another. In practical terms, the answer could guide the choice of varieties for drier or wetter conditions.
+    </p>
+    <p>
+      Which varieties they chose would matter. Roger cautioned against selecting four merely <q>for the heck of it.</q> Varieties that differed in relevant characteristics like their duration or rooting depth, could help the researchers examine whether those characteristics were associated with different responses to water. The inference to other varieties would remain cautious, but the study could then reveal more than the performance of four names on a list.
+    </p>
+    <p>
+      This could extend what the researchers learned beyond the varieties included in the trial. If another variety shared relevant characteristics with one already studied, the results might provide some basis for considering how it would respond. That inference would remain cautious, but the experiment would offer more than a set of findings about four named varieties.
+    </p>
+    <p>
+      The revised question also changed the design the study required. Irrigation and variety would need to be examined together, while the practical requirements of applying irrigation would affect how the plots could be arranged. <xref ref="ch-design-is-a-choice"/> returns to those decisions. Here, their significance is that they grew from a clearer understanding of what the experiment was intended to discover.
+    </p>
+    <p>
+      The additional factor was justified because it changed what the study could discover. The familiar relationship between water and yield did not close the enquiry. It helped the researchers see where a more useful question could begin.
+    </p>
+  </section>
+
+  <section xml:id="sec-worthwhile-question-let-the-question-determine-the-method">
+    <title>Let the Question Determine the Method</title>
+    <introduction>
+      <p>
+        Once the research question is established the team must identify the evidence needed to answer it and decide which methods can produce that evidence.
+      </p>
+      <p>
+        Roger observes that researchers commonly arrive at project inception meetings with the methods associated with their disciplinary training. Agronomists are accustomed to field experiments, economists often propose surveys, and researchers with a social science background may begin with participatory methods. These are valuable forms of expertise, and each may be appropriate. The risk arises when familiarity determines the method and thereby sets the boundaries of the enquiry. Questions that fit the familiar approach come to the foreground, while those requiring other kinds of evidence may remain unasked.
+      </p>
+      <p>
+        Useful questions often cross disciplinary boundaries. The irrigation experiment began with water management but became more informative when varietal response was brought into the enquiry. Individuals don't need to become experts in other disciplines, but different areas of expertise should be considered together.
+      </p>
+      <p>
+        Research methods support can help teams recognise wider possibilities while a project is still taking shape. Roger describes setting out different data-collection approaches and considering what each could contribute. This allows different forms of expertise to be brought together around the question and supports researchers who are ready to work beyond familiar approaches when the question calls for it.
+      </p>
+    </introduction>
+    <subsection xml:id="subsec-worthwhile-question-one-method-might-not-be-enough">
+      <title>One method might not be enough</title>
+      <p>
+        Some enquiries require more than one kind of evidence. Roger argues that methods should not be treated as competing alternatives. Each makes some parts of a problem visible and leaves others less well observed.
+      </p>
+      <p>
+        A controlled research-station experiment is useful when researchers need to isolate a crop's response to a treatment. Planting, weeding and other practices can be managed consistently, making the treatment comparison easier to distinguish.
+      </p>
+      <p>
+        When researchers want to know whether the same treatment response holds across farmers' soils and management practices, they need to study it on farms. As Roger puts it, <q>farmers don't live on research stations.</q> Farm soils may differ from those at the station, and planting dates, weeding and other practices may affect the result.
+      </p>
+      <p>
+        An on-farm trial can be managed in different ways. Researchers may manage the trial on farmers' land, allowing the treatment to be studied on farm soils while keeping crop management relatively consistent. Alternatively, farmers may manage the trial themselves, so differences in planting, weeding and other practices become part of what the study examines.
+      </p>
+      <p>
+        When farmers manage a trial, planting dates, weeding, soils and other conditions will differ from farm to farm. Researchers initially saw this variation as a problem. Roger thought they were <q>missing a trick.</q> His rule is simple: <q>If you can't control it, measure it.</q> If planting date or weeding may help explain differences in crop performance, that information should be recorded alongside the plot results. The variation then becomes something the study can investigate. Applying this rule requires judgement. The aim is not to catalogue every difference between farms, but to record the conditions that materially affect the response they are studying and record the information needed to interpret it.
+      </p>
+      <p>
+        When farmers choose which treatments or varieties to test, researchers may also need to understand why. If they do not yet know which considerations matter, a questionnaire may impose categories too early. Open discussions can reveal qualities, constraints or priorities that the research team had not anticipated.
+      </p>
+      <p>
+        These methods do not form a fixed sequence. An experiment on a research station may lead to questions about performance on farms. Equally, a survey or discussion with farmers may reveal a pattern, constraint or crop characteristic that researchers then investigate through a controlled experiment. The next step depends on what is already known and which part of the question remains unanswered.
+      </p>
+    </subsection>
+    <subsection xml:id="subsec-worthwhile-question-several-focused-studies">
+      <title>Several focused studies</title>
+      <p>
+        A research question may require several kinds of evidence without requiring one study to collect them all. Rather than creating one <q>humongous</q> exercise to carry every objective, Roger suggests using two or three smaller data-collection exercises that complement one another.
+      </p>
+      <p>
+        Keeping the studies distinct allows each to be designed around the part of the enquiry it can answer well. Each method has its own advantages and limitations; separating the studies avoids asking any one method to carry objectives for which it is poorly suited. Their findings can then be considered together to answer the overall research question.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-worthwhile-question-before-collecting-more-data">
+    <title>Before Collecting More Data</title>
+    <p>
+      The research question should also be shaped by the evidence that already exists. Over the programme's twenty years, David describes a marked shift from data scarcity to data abundance. Researchers can no longer assume that their trial or survey will be the first attempt to investigate a subject. They need to establish what existing evidence shows and where new research could add something. Existing evidence can also open up new opportunities, providing the foundation for questions that a new study could not answer on its own.
+    </p>
+    <p>
+      The search for existing evidence should extend beyond published research. Relevant evidence may be found in previous experiments, project datasets, routine records, historical observations or farmers' experience. It may show that a proposed comparison is unnecessary, narrow a broad interest into a more precise question or reveal a pattern that needs to be explained.
+    </p>
+    <p>
+      Access and quality help determine which questions existing data can answer. Roger points to national surveys as important sources of background information within a country and to daily climate records as a foundation for crop modelling. Teams need to establish whether and how they can obtain the data and whether the records are sufficiently complete; for crop modelling, this includes identifying which years are suitable for analysis.
+    </p>
+    <p>
+      Ownership affects not only whether existing data can be used, but who helps shape the research. Farmer federations increasingly want to retain control over their own data. David sees this as an opportunity to <q>flip research around</q> by engaging communities through their own grassroots institutions rather than through external or government institutions. FUMA Gaskiya, one of the programme's partner farmer federations in Niger, collects and manages its own data. Researchers can work with the federation through its own structures, while it helps decide how its data are used and how the research is planned.
+    </p>
+    <p>
+      Existing evidence can also make a broader question possible. Roger gives an example from crop simulation. A field experiment may cover only the two or three seasons supported by a grant, while historical climate records may extend across several decades. When suitable crop, soil, management and climate information is available, a simulation model allows researchers to explore how the treatment might have performed across dry, wet and more typical years. The model does not replace the field experiment, and its findings depend on the quality of the data and its assumptions.
+    </p>
+    <p>
+      New questions can also emerge when an unexpected pattern appears during a study. Roger points to a small group of termite-affected plots and bird damage concentrated on one variety. Because the original studies were not designed to investigate these patterns, the observations cannot answer the questions they raise. They may, however, provide the basis for a pilot or follow-up study.
+    </p>
+    <p>
+      Examining what is already there locates the point at which existing knowledge is no longer sufficient. That is where the next worthwhile question begins.
+    </p>
+  </section>
+
+  <section xml:id="sec-worthwhile-question-when-is-the-question-ready">
+    <title>When Is the Question Ready?</title>
+    <p>
+      Research planning is often judged by how fully its activities have been specified. A more important test is whether the researchers can explain what the study will add and how the proposed evidence will support that contribution. These questions keep the purpose of the research visible while the plan takes shape.
+    </p>
+    <p>
+      Reaching that point may require the question and design to be reconsidered together. The question leads not because it must remain fixed from the outset, but because the developing design continues to be judged against the purpose it is meant to serve.
+    </p>
+  </section>
+
+</chapter>

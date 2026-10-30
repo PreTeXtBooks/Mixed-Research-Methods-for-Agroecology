@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-what-to-measure" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What Should We Measure?</title>
+
+  <introduction>
+    <p>
+      Measurements can seem like a straightforward part of research, but they deserve the same careful thought as design and analysis. Measurements are the glue that holds a study together. The choices researchers make about what to measure and how to measure it determine whether the collected data can answer the research question. An excellent design and sophisticated analysis cannot compensate for poor measurements.
+    </p>
+    <p>
+      The accounts in this chapter challenge some common assumptions about measurement. A familiar measurement is not necessarily relevant simply because it has been used before. The most direct measure does not always provide the strongest evidence. A quantity that can be calculated may not fairly represent the comparison being made. Even an apparently simple numerical value can depend on how it is defined and who records it.
+    </p>
+    <p>
+      Measurement also carries practical costs. It takes time from field staff, researchers or respondents, creates opportunities for missing or inconsistent observations, and produces information that must be checked, understood and analysed. Researchers should therefore consider how each measurement will contribute to answering the research question, describing the circumstances of the study or explaining variation in the results. These purposes may overlap, and other uses may emerge, but every measurement should have a clear reason for being included.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-what-to-measure-measuring-what-the-study-needs-to">
+    <title>Measuring What the Study Needs to Know</title>
+    <p>
+      <em>Source podcast: <url href="https://www.idems.international/podcast/186-twenty-years-of-rms-for-crfs-measurements/">186 — Twenty Years of RMS for CRFS: Measurements</url></em>
+    </p>
+    <p>
+      The first question about any measurement is simple: why is it being collected? A common mistake is to let precedent answer that question.
+    </p>
+    <p>
+      Roger Stern encountered an example while analysing an experiment comparing several crop varieties. The researcher had measured the height of five plants in every plot after twenty, forty and sixty days. The experiment also recorded yield, flowering date and other variables. Collecting the plant-height data had taken considerable time, and the researcher was particularly interested in analysing them.
+    </p>
+    <p>
+      The analysis confirmed a statistically significant difference in height among the varieties. At first, the result appeared useful. As they discussed how it might be reported, Roger asked a more basic question: <em>What was the plant height meant to discover?</em>
+    </p>
+    <p>
+      The relative heights of the varieties were already well known. The analysis had established something that neither the researcher nor the intended audience needed this experiment to show. The result was statistically clear without being useful.
+    </p>
+    <p>
+      The reason lay in the design of the study. The researcher had taken the list of measurements from a similar experiment conducted the previous year and copied it into the new trial. Plant height had been included by precedent rather than purpose. It was measured because it had been measured before.
+    </p>
+    <p>
+      This did not make plant height unimportant in itself. In another experiment, it might be essential to the research question. Here, however, repeated measurements had consumed time and effort without adding information the study needed.
+    </p>
+    <p>
+      The weakness had arisen earlier, when the measurement was included without being connected to the purpose of the research. The experiment produced a sound answer to a question it did not need to ask.
+    </p>
+  </section>
+
+  <section xml:id="sec-what-to-measure-sometimes-indirect-measures-provide-better-evidence">
+    <title>Sometimes Indirect Measures Provide Better Evidence</title>
+    <p>
+      <em>Source podcast: <url href="https://www.idems.international/podcast/241-twenty-years-of-rms-for-crfs-proxy-variables/">241 — Twenty Years of RMS for CRFS: Proxy Variables</url></em>
+    </p>
+    <p>
+      Researchers often assume that the measure closest to the outcome of interest will provide the best evidence. Yet a measurement is only useful if it can be obtained reliably. Under the actual conditions of a study, a more direct measure may be vulnerable to greater error or variation than an indirect one. In such cases, an indirect measure can provide stronger evidence.
+    </p>
+    <p>
+      In West Africa, colleagues preparing large numbers of farmer trials came to David Stern with a practical measurement problem. Heads could be weighed immediately in the field, but grain could only be weighed after the heads had been transported and processed. Once the harvest left the plot, the research team had less control over what happened before the final measurement was made. Could they weigh the harvested heads instead?
+    </p>
+    <p>
+      Grain yield appeared to be the natural choice because grain was the outcome of interest. Head weight was only a proxy, expected to stand in for the quantity the researchers wanted to know. David was not sure that the substitution would work; millet heads contain material other than grain, and the relationship could differ among varieties.
+    </p>
+    <p>
+      The researchers had earlier datasets containing both measurements from station experiments and farmer trials. These allowed them to test the proposed proxy. The station data were reassuring. Head weight and grain weight were closely related across varieties. The farmer-trial data were less consistent. Recorded grain weight was sometimes much lower than head weight would have suggested, but it was not correspondingly higher. Considered on its own, that pattern could have been taken as evidence that the proxy was unreliable.
+    </p>
+    <p>
+      The difference reflected the conditions under which the measurements were produced. On a research station, heads and separated grain could be handled and weighed through a relatively controlled process. Farmer trials were dispersed across many locations, and grain could only be weighed after the heads had left the plot and been processed. That created a longer interval between harvest and measurement and more opportunities for the recorded quantity to change.
+    </p>
+    <p>
+      Some grain might be lost during transport, consumed or retained before weighing. In a variety trial, the most attractive variety could even appear to have a lower recorded grain yield if farmers selected some of its heads for seed. These were not necessarily failures in the conduct of the trial. They were consequences of carrying out research under conditions in which the harvest has value and uses beyond the study.
+    </p>
+    <p>
+      The later grain measurement therefore represented more than production in the plot. It also reflected what had happened between harvest and weighing. Measuring head weight immediately reduced that additional variability and provided a more dependable indication of grain production than the apparently more direct measure. By reconsidering both what should be measured and when, the researchers also made reliable data collection feasible as the research expanded to thousands of farmer trials.
+    </p>
+    <p>
+      The decision rested on more than the statistical relationship between the two measurements. The team compared paired measurements, considered the difference between station and farm conditions and investigated why the pattern changed. Without the explanation provided by those familiar with the collection process, the weaker relationship in the farmer data might have led to a different conclusion.
+    </p>
+    <p>
+      Head weight was useful for this purpose, but it would not suit every millet study. David noted that the relationship could become misleading if the non-grain portion of the head were itself important or if breeding altered the relationship between head and grain. In that situation, the proxy might conceal the change researchers wanted to detect.
+    </p>
+    <p>
+      The same reasoning can sometimes support collecting less detailed information. In decentralised variety testing, the objective may be to compare performance rather than estimate absolute yield. Farmers can identify which varieties performed best and worst without weighing every harvest. The tricot approach combines comparisons of this kind across many participants and environments (van Etten et al., 2019). A ranking cannot provide an estimate of absolute yield, but it may answer the comparative question while making participation possible at a much larger scale.
+    </p>
+    <p>
+      When choosing a measurement, researchers need to consider accuracy, reliability, usefulness and cost under the real-world conditions of the study. These factors can pull in different directions, and the choice often requires compromise. Here, the proxy offered two advantages at once: weighing heads immediately was both more practical and more reliable than weighing grain later. The less direct measure therefore provided stronger evidence.
+    </p>
+  </section>
+
+  <section xml:id="sec-what-to-measure-measuring-profitability-with-care">
+    <title>Measuring Profitability with Care</title>
+    <p>
+      <em>Source podcast: <q>Measuring Profitability</q> (working recording; episode number and publication link to be added)</em>
+    </p>
+    <p>
+      Profitability is an appealing measurement, but in complex smallholder settings there may be no single valid way to calculate it. Forcing the calculation can misrepresent the situation and give decision makers confidence the evidence does not support. This is particularly risky when profitability figures are used to direct funding: an apparently decisive result can determine which activities receive support even when the underlying comparison is not credible.
+    </p>
+    <p>
+      David encountered this in a West African project comparing rural and urban transformation units, processing centres that turned grain into flour and other products. An economics student had analysed their profitability. The result appeared decisive: the urban unit was highly profitable, while the rural unit seemed so unprofitable that further support was difficult to justify.
+    </p>
+    <p>
+      When David examined the figures, he found that the difference came largely from how labour had been costed. The rural centre was run through a women's group whose members contributed their time rather than working as paid employees. There was therefore no wage cost to record. What had been recorded was the time they contributed. The analysis valued those hours at the same rate as paid urban labour, and because the women reported considerably more hours, the rural unit appeared unprofitable.
+    </p>
+    <p>
+      Applying the urban rate allowed the calculation to be completed, but it rested on a false equivalence. An hour spent in the women's group was not the same as an hour of paid work at the urban unit. It would also have been wrong to assign no financial cost to the women's time. Their time had value, but the available data provided no defensible basis for pricing it.
+    </p>
+    <p>
+      The profitability calculation also missed much of what the rural centre provided. It was part of a multipurpose women's group whose members produced food for their households and goods for sale, worked and learned together, socialised and brought their children. These practical and social benefits mattered to the decision about further support, but they fell outside the recorded costs and financial returns.
+    </p>
+    <p>
+      The evidence therefore could not establish which unit was more profitable, and profitability alone could not determine which model should receive support.
+    </p>
+    <p>
+      The problem extends beyond this case. Where accounting records already help people manage an enterprise, they can provide a credible basis for profitability analysis. The people keeping them have a reason to record costs and returns carefully because their own decisions depend on the information. Researchers can then analyse profitability as a secondary output.
+    </p>
+    <p>
+      The same principle could apply to smallholder farms when record keeping is useful to farmers themselves. The benefit to researchers does not, by itself, justify asking farmers to take on substantial record keeping. The records would first need to support decisions that mattered to the farmer.
+    </p>
+    <p>
+      This raises a more fundamental question. Keeping records for profitability begins to treat the farm as a business, but many smallholder farms serve purposes beyond generating income. Farmers grow crops for sale and to feed their households; decisions about what to grow therefore concern food, livelihoods and family needs, not profit alone. In parts of the Sahel, farming helps sustain households under exceptionally difficult conditions and is woven into history, culture and community life. Judging farming only by profitability understates both its practical contribution to households and its wider social value.
+    </p>
+    <p>
+      This creates a problem for decision-makers. Commercial farms can use financial records to support their case, while comparable evidence from smallholder agriculture is often unavailable at scale. Farmer organisations such as FUMA Gaskiya are important in addressing this imbalance because they gather data and information about the conditions and experiences of smallholder farmers.
+    </p>
+    <p>
+      Researchers must therefore ask two questions: can profitability be calculated credibly, and is profitability sufficient for the decision being made? An inability to produce a credible profitability figure must not be mistaken for evidence that an activity lacks value. Otherwise, funding will favour activities whose value is easiest to express financially. Where the available information cannot support a fair comparison, researchers should make that uncertainty clear rather than force a calculation the evidence cannot justify.
+    </p>
+  </section>
+
+  <section xml:id="sec-what-to-measure-the-data-collector-is-part-of">
+    <title>The Data Collector Is Part of the Measurement</title>
+    <p>
+      <em>Source podcast: <url href="https://www.idems.international/podcast/234-data-collectors-as-a-source-of-variability/">234 — Data Collectors as a Source of Variability</url></em>
+    </p>
+    <p>
+      The millet and profitability examples shows that a measurement continues to take shape as it moves from the field into the dataset. In a survey, the role of the data collector makes this particularly visible.
+    </p>
+    <p>
+      While examining survey data from projects in West Africa, David Stern has sometimes found the identity of the data collector to be one of the largest sources of variation for particular questions. Researchers expect answers to differ among households or locations, but some of the differences follow the person conducting the interview. Good design and training can prevent avoidable variation; retaining the collector's identity as part of the data allows researchers to detect what remains.
+    </p>
+    <p>
+      Household size illustrates why an apparently simple numerical variable can be more complicated than it first appears. A household might be defined as a nuclear family, the people who eat together or the wider group within which agricultural decisions are made. These definitions place different boundaries around the unit being counted. David recalled studies in parts of Mali where, under the definition used in the research, a single household could include more than 60 people. The correct number for the study could only be collected by understanding what the study defined as a household.
+    </p>
+    <p>
+      Definitions should be written into the questionnaire guidance and tested with data collectors using realistic cases. Any disagreement during training or piloting should be resolved before the survey begins. Otherwise, collectors may follow reasonable but different interpretations, leaving the dataset to combine measurements of different social units under the same variable name.
+    </p>
+    <p>
+      During an enumerator-training exercise in Vietnam, David saw how strong enumerator skills can help apply such definitions in practice. Participants from Cambodia, Laos and Vietnam spent a week preparing to use a long questionnaire for a climate-related baseline survey. They worked through the questions together, practised interviewing and revised the instrument after testing it in the field.
+    </p>
+    <p>
+      One enumerator particularly impressed him. She knew the questionnaire well enough to let the interview proceed as a conversation, taking notes and keeping track of the information she needed rather than completing every field as it arose. During one interview, the reported household size changed three times. As the conversation developed, a nephew who was away at school and other family relationships emerged which changed the household size based on the definition they were wanting to use.
+    </p>
+    <p>
+      The changing number did not show that the respondent had been careless. It reflected a fuller account emerging as the conversation continued. Because the enumerator understood what the question was intended to represent, she recognised that the initial number was incomplete. The training had given participants time to compare interpretations and discover ambiguities before those differences became embedded in the data.
+    </p>
+    <p>
+      David argued that data collection should be treated as skilled research work rather than routine administration. Experienced collectors learn how questions operate in practice and how to recognise an answer that needs clarification. National statistics offices often acknowledge this by investing in specialist enumerators. Agricultural research projects do not always make the same investment, even when the quality of the study depends heavily on interviewing. Where surveys form an important part of the research, the experience of good data collectors should be developed and retained rather than rebuilt with a new group for every study.
+    </p>
+    <p>
+      Skilled data collection has limits. David recalled that the Southeast Asian baseline questionnaire was too long and that some of the information collected through it was unreliable as a result. Later studies shortened it. Training cannot compensate for an instrument that asks too much.
+    </p>
+    <p>
+      As attention declines and fatigue increases, an overlong questionnaire can begin to change the answers people give. David used the example of asking whether a household grew maize. If answering <q>yes</q> opened another long series of questions, a respondent who wanted the interview to end might find <q>no</q> the easier answer. The response would then reflect the burden created by the questionnaire rather than the household's farming activities.
+    </p>
+    <p>
+      This makes questionnaire length part of measurement design. Piloting should establish whether the questionnaire can be completed without the demands of the interview altering the information it produces. Data collectors need to be involved in that testing because they encounter ambiguities, delays and signs of fatigue that may not be visible when the questionnaire is being written.
+    </p>
+    <p>
+      Careful design and preparation can reduce differences between collectors, but they cannot remove them entirely. Collector identity should therefore remain attached to every interview. David described it as one of the first variables he looks for when assessing the quality of a survey dataset. Digital collection systems often record it automatically, but researchers need to retain it in a form that can be used during quality control and analysis.
+    </p>
+    <p>
+      David compared collector identity to blocking or stratification. Interviews conducted by the same person may show a degree of consistency in how questions are asked, how respondents answer and how their answers are recorded. During quality control, researchers can compare the responses associated with different collectors and look for questions on which those patterns diverge. A pattern associated with a collector does not by itself establish that the collector caused it, particularly when collectors worked in different locations or with different groups. It identifies a possible source of variation that requires further investigation.
+    </p>
+    <p>
+      Retaining collector identity does not remove variation that has already entered the data, but it makes its structure visible. Without that information, differences introduced during data collection can be incorrectly attributed to differences among households or locations.
+    </p>
+  </section>
+
+  <section xml:id="sec-what-to-measure-keeping-measurement-fit-for-purpose">
+    <title>Keeping Measurement Fit for Purpose</title>
+    <p>
+      Every measurement should be treated as a research decision. Begin with what the study needs to understand, then ask what the measurement must capture and whether it can do so under the actual conditions of data collection. The most direct or precise measure is not always the strongest: a more practical measure may preserve the information more reliably. Test these assumptions through piloting, early examination of the data and discussion with the people collecting them. If a measurement does not work as intended, revise it.
+    </p>
+    <p>
+      Researchers are responsible for ensuring that their measurements can produce the evidence the study promises. They need to understand what their data represent, what they leave out and which conclusions they can support. Where the available information cannot answer the question credibly, the responsible response is to change the measurement, narrow the claim or acknowledge the uncertainty.
+    </p>
+  </section>
+
+  <references xml:id="refs-what-to-measure">
+    <title>References</title>
+    <biblio type="raw">van Etten, J., Beza, E., Calderer, L., van Duijvendijk, K., Fadda, C., Fantahun, B., Kidane, Y. G., van de Gevel, J., Gupta, A., Mengistu, D. K., Kiambi, D. A., Mathur, P. N., Mercado, L., Mittra, S., Mollel, M. J., Rosas, J. C., Steinke, J., Suchini, J. G. and Zimmerer, K. S. (2019). First experiences with a novel farmer citizen science approach: crowdsourcing participatory variety selection through on-farm triadic comparisons of technologies (tricot). Experimental Agriculture, 55(S1), 275–296. <url href="https://doi.org/10.1017/S0014479716000739">https://doi.org/10.1017/S0014479716000739</url></biblio>
+  </references>
+
+</chapter>
