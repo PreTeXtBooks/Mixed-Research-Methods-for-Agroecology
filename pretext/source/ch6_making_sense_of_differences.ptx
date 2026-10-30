@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DRAFT PLACEHOLDER: summary and source notes only; chapter text still to be written. -->
+<chapter xml:id="ch-making-sense-of-differences" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Making Sense of Differences</title>
+
+  <introduction>
+    <p>
+      The pearl-millet field study shows how investigating field history and early growth can change the interpretation of treatment responses. Farmer-organisation groupings reveal another potentially informative structure. Zeros receive an explicit section: survival and growth, or livestock ownership and number owned, describe different processes that an average can conceal. Descriptive ANOVA supports the distinction between accounting for variation and establishing causation.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-making-sense-of-differences-source-notes">
+    <title>Source notes</title>
+    <p>
+      <alert>Main transcripts:</alert> Unexplained Variability; RMS and Multilevel Data; RMS and the Problem of Zeros; Episode 233 Analysis of Variance as a Descriptive Tool.
+    </p>
+    <p>
+      <alert>Supporting:</alert> On-station Agricultural Trials; Measurements.
+    </p>
+    <p>
+      <alert>Key documentary source:</alert> Buerkert, Stern and Marschner (1995) governs the pearl-millet study's documented design and analysis where later recollections differ.
+    </p>
+  </section>
+</chapter>

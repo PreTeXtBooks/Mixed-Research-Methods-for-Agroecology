@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DRAFT PLACEHOLDER: summary and source notes only; chapter text still to be written. -->
+<chapter xml:id="ch-conclusion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What the Stories Add Up To</title>
+
+  <introduction>
+    <p>
+      Returns to how judgement develops through experience, discussion and reconsideration, and what these accounts offer the next generation. Its content should emerge from the completed chapters, drawing together their strongest reasoning without becoming a chapter-by-chapter recap.
+    </p>
+  </introduction>
+
+  <section xml:id="sec-conclusion-source-notes">
+    <title>Source notes</title>
+    <p>
+      <alert>Main transcripts:</alert> Reflections on Next Steps; David Introducing the RMS Series.
+    </p>
+    <p>
+      <alert>Supporting:</alert> Selected practical transcripts where they help connect the book's central insights.
+    </p>
+  </section>
+</chapter>
