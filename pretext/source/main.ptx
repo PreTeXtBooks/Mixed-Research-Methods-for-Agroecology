@@ -14,7 +14,8 @@
   <!-- to some short (non-spaced) description of your book         -->
   <book xml:id="mixed-research-methods-agroecology">
     <!-- The book needs a title and can have a subtitle  -->
-    <title>Mixed Research Methods for Agroecology</title>
+    <title>Research Judgement in Practice</title>
+    <subtitle>Lessons from Twenty Years of Supporting Agricultural Research</subtitle>
 
     <!-- Now we include files containing each main devision.       -->
 
