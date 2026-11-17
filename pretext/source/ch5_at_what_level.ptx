@@ -5,139 +5,375 @@
 
   <introduction>
     <p>
-      The subject of multiple levels is often treated as advanced statistics, but researchers encounter levels as soon as they begin working with real data. Plants are observed within plots, plots lie within farms and farms differ from one another. Recognising this structure does not require advanced statistical analysis. It begins with simple questions: where was the treatment applied, where were the observations made and at which level does important variation occur?
+      The subject of multiple levels is often treated as advanced statistics,
+      but researchers encounter levels as soon as they begin working with real
+      data.
+      Plants are observed within plots, plots lie within farms and farms differ
+      from one another.
+      Recognising this structure does not require advanced statistical analysis.
+      It begins with simple questions: where was the treatment applied, where
+      were the observations made and at which level does important variation
+      occur?
     </p>
+
     <p>
-      Understanding levels helps researchers see what each measurement represents and where variation occurs within the study. Variation within treatment units, variation among units and a small group of observations affected by a separate condition cannot be interpreted in the same way. Recognising these distinctions helps researchers understand the variability in their data and decide how it should be handled.
+      Understanding levels helps researchers see what each measurement
+      represents and where variation occurs within the study.
+      Variation within treatment units, variation among units and a small group
+      of observations affected by a separate condition cannot be interpreted in
+      the same way.
+      Recognising these distinctions helps researchers understand the
+      variability in their data and decide how it should be handled.
     </p>
   </introduction>
 
   <section xml:id="sec-at-what-level-more-jars-or-more-tadpoles">
     <title>More Jars or More Tadpoles</title>
+
     <p>
       <em>Source podcast: Levels of Variability</em>
     </p>
+
+    <audio href="https://www.idems.international/podcast-player/8019/182-twenty-years-of-rms-for-crfs-levels-of-variability.mp3" width="60%" />
+
     <p>
-      Roger Stern first encountered the practical importance of levels as a junior lecturer. One of his first advisees was an undergraduate student planning an experiment on tadpole growth at three temperatures. She had plenty of tadpoles and plenty of jars. Her question was whether she should use a few jars containing many tadpoles or many jars containing only a few. She was embarrassed to ask because she thought the answer should be obvious. Roger did not find it obvious at all.
+      Roger Stern first encountered the practical importance of levels as a
+      junior lecturer.
+      One of his first advisees was an undergraduate student planning an
+      experiment on tadpole growth at three temperatures.
+      She had plenty of tadpoles and plenty of jars.
+      Her question was whether she should use a few jars containing many
+      tadpoles or many jars containing only a few.
+      She was embarrassed to ask because she thought the answer should be
+      obvious.
+      Roger did not find it obvious at all.
     </p>
+
     <p>
-      He asked her to return the next day and began by looking in books for information about experiments on tadpoles. That did not help because this was not a tadpole issue. A more experienced colleague advised him to step back and ask: what is the unit to which the treatment is applied?
+      He asked her to return the next day and began by looking in books for
+      information about experiments on tadpoles.
+      That did not help because this was not a tadpole issue.
+      A more experienced colleague advised him to step back and ask: what is the
+      unit to which the treatment is applied?
     </p>
+
     <p>
-      The treatment was temperature, and it was applied to the jar rather than separately to each tadpole. The number of jars therefore determined how many times each temperature was applied. More jars increased replication. The student needed enough jars at each temperature to make a useful comparison.
+      The treatment was temperature, and it was applied to the jar rather than
+      separately to each tadpole.
+      The number of jars therefore determined how many times each temperature
+      was applied.
+      More jars increased replication.
+      The student needed enough jars at each temperature to make a useful
+      comparison.
     </p>
+
     <p>
-      How many tadpoles to place inside them was a different question. Roger's answer was that each jar should contain <q>happy tadpoles</q>. One tadpole might make the experimental structure simple but create an unnatural environment if tadpoles normally live together. Too many could leave them crowded. The appropriate number depended on their biology and on the conditions the experiment was intended to represent. Roger put the point strongly: biology or common sense should trump statistical principles. Statistics could show where replication was needed; it could not decide what made a sensible environment for a tadpole.
+      How many tadpoles to place inside them was a different question.
+      Roger's answer was that each jar should contain <q>happy tadpoles</q>.
+      One tadpole might make the experimental structure simple but create an
+      unnatural environment if tadpoles normally live together.
+      Too many could leave them crowded.
+      The appropriate number depended on their biology and on the conditions the
+      experiment was intended to represent.
+      Roger put the point strongly: biology or common sense should trump
+      statistical principles.
+      Statistics could show where replication was needed; it could not decide
+      what made a sensible environment for a tadpole.
     </p>
+
     <p>
-      Once the jar had been identified as the treatment unit, the comparison had to be made between jars. But it was the tadpoles that grew and needed to be measured. Measurements from individual tadpoles could be combined to estimate their average size in each jar. Repeating those measurements would show how the average changed over time, while comparing several jars would show whether that change differed between temperatures. The tadpole measurements described what happened within each jar. Replication still came from the jars.
+      Once the jar had been identified as the treatment unit, the comparison had
+      to be made between jars.
+      But it was the tadpoles that grew and needed to be measured.
+      Measurements from individual tadpoles could be combined to estimate their
+      average size in each jar.
+      Repeating those measurements would show how the average changed over time,
+      while comparing several jars would show whether that change differed
+      between temperatures.
+      The tadpole measurements described what happened within each jar.
+      Replication still came from the jars.
     </p>
+
     <p>
-      Measurement at the individual level also depends on whether particular individuals can be followed. Tadpoles could not easily be marked, so five measured one week might not be the same five measured the next. The repeated observations could show how the group in each jar changed, but not how particular tadpoles grew.
+      Measurement at the individual level also depends on whether particular
+      individuals can be followed.
+      Tadpoles could not easily be marked, so five measured one week might not
+      be the same five measured the next.
+      The repeated observations could show how the group in each jar changed,
+      but not how particular tadpoles grew.
     </p>
+
     <p>
-      Roger realised that the jars and tadpoles had a direct counterpart in agricultural experiments: plots and plants. A treatment such as fertiliser or planting density is applied to a plot, while measurements are often taken from individual plants within it. The plant measurements help describe what happened in each plot, but the treatment comparison is made between plots.
+      Roger realised that the jars and tadpoles had a direct counterpart in
+      agricultural experiments: plots and plants.
+      A treatment such as fertiliser or planting density is applied to a plot,
+      while measurements are often taken from individual plants within it.
+      The plant measurements help describe what happened in each plot, but the
+      treatment comparison is made between plots.
     </p>
+
     <p>
-      Identifying the plot as the treatment unit does not settle how large it should be or how the crop should be planted within it. Research plots are usually much smaller than farmers' fields, but their design must still make biological and agricultural sense. The plot must allow the crop and treatment to behave in a way that remains relevant beyond the experiment. Only then can results at the experimental scale provide useful evidence about farming at a larger scale.
+      Identifying the plot as the treatment unit does not settle how large it
+      should be or how the crop should be planted within it.
+      Research plots are usually much smaller than farmers' fields, but their
+      design must still make biological and agricultural sense.
+      The plot must allow the crop and treatment to behave in a way that remains
+      relevant beyond the experiment.
+      Only then can results at the experimental scale provide useful evidence
+      about farming at a larger scale.
     </p>
+
     <p>
-      Plants differ from tadpoles in one practical respect. As Roger observed, they are <q>quite obedient</q> and remain in the same place. Researchers can choose whether to return to the same plants or take a new sample on each occasion. Returning to the same five plants shows how each one grows and whether plants that begin small remain small. Measuring five different plants each time instead describes the general condition of the plot at each date. Both approaches can be useful, but they answer different questions.
+      Plants differ from tadpoles in one practical respect.
+      As Roger observed, they are <q>quite obedient</q> and remain in the same
+      place.
+      Researchers can choose whether to return to the same plants or take a new
+      sample on each occasion.
+      Returning to the same five plants shows how each one grows and whether
+      plants that begin small remain small.
+      Measuring five different plants each time instead describes the general
+      condition of the plot at each date.
+      Both approaches can be useful, but they answer different questions.
     </p>
+
     <p>
-      Roger's experience with the tadpoles gave him a practical way to separate questions that are easily confused: how many treatment units are needed, how large each unit should be and what should be measured within it. In an agricultural experiment, these become questions about the number of plots, the size of each plot and the plants observed within them.
+      Roger's experience with the tadpoles gave him a practical way to separate
+      questions that are easily confused: how many treatment units are needed,
+      how large each unit should be and what should be measured within it.
+      In an agricultural experiment, these become questions about the number of
+      plots, the size of each plot and the plants observed within them.
     </p>
   </section>
 
   <section xml:id="sec-at-what-level-the-same-choice-in-a-field">
     <title>The Same Choice in a Field</title>
+
     <p>
       <em>Source podcasts: Reflections on Next Steps; RMS and Multilevel Data</em>
     </p>
+
+    <audio href="https://www.idems.international/podcast-player/13748/291-understanding-multilevel-data-through-context.mp3" width="60%" />
+
     <p>
-      Years later, David Stern recognised the same choice while working with FUMA Gaskiya, a farmer federation in Niger. Roger's story stayed with him because, as he puts it, the problem comes up <q>time and time again in different forms.</q> In one trial, the results were not coming out clearly. The team needed to consider whether adding more plots or increasing the size of each plot would provide more reliable results.
+      Years later, David Stern recognised the same choice while working with
+      FUMA Gaskiya, a farmer federation in Niger.
+      Roger's story stayed with him because, as he puts it, the problem comes up
+      <q>time and time again in different forms.</q> In one trial, the results
+      were not coming out clearly.
+      The team needed to consider whether adding more plots or increasing the
+      size of each plot would provide more reliable results.
     </p>
+
     <p>
-      The two options would do different things. More plots would mean more treatment units and therefore more replication. Larger plots would average internal variability over a larger area. The FUMA team chose to increase the plot size. David recalls that the plot results became more consistent and the treatment effects <q>just jumped out.</q>
+      The two options would do different things.
+      More plots would mean more treatment units and therefore more replication.
+      Larger plots would average internal variability over a larger area.
+      The FUMA team chose to increase the plot size.
+      David recalls that the plot results became more consistent and the
+      treatment effects <q>just jumped out.</q>
     </p>
+
     <p>
-      Increasing the plot size does not make the treatments more effective. Crop growth naturally varies over short distances because of differences in soil fertility, drainage, weed pressure and pest damage. If an experimental plot is too small, its result may largely reflect a single patch of unusually strong or weak growth. In a larger plot, that patch makes up less of the total area and therefore has less effect on the result.
+      Increasing the plot size does not make the treatments more effective.
+      Crop growth naturally varies over short distances because of differences
+      in soil fertility, drainage, weed pressure and pest damage.
+      If an experimental plot is too small, its result may largely reflect a
+      single patch of unusually strong or weak growth.
+      In a larger plot, that patch makes up less of the total area and therefore
+      has less effect on the result.
     </p>
+
     <p>
-      This does not mean larger plots are automatically better. When land, labour and seed are limited, making each plot larger usually means having fewer plots. Once the plots are large enough to give consistent results, the available space may be better used for additional plots. There is no single correct answer because the right balance depends on the objectives and priorities of the research.
+      This does not mean larger plots are automatically better.
+      When land, labour and seed are limited, making each plot larger usually
+      means having fewer plots.
+      Once the plots are large enough to give consistent results, the available
+      space may be better used for additional plots.
+      There is no single correct answer because the right balance depends on the
+      objectives and priorities of the research.
     </p>
+
     <p>
-      If local differences within a field are obscuring the treatment response, larger plots may help. If the question is whether that response holds across different fields or farms, the study needs enough fields or farms to make that comparison. Researchers therefore need to distinguish variation within plots from variation among them and consider both in relation to the research question.
+      If local differences within a field are obscuring the treatment response,
+      larger plots may help.
+      If the question is whether that response holds across different fields or
+      farms, the study needs enough fields or farms to make that comparison.
+      Researchers therefore need to distinguish variation within plots from
+      variation among them and consider both in relation to the research
+      question.
     </p>
+
     <p>
-      Making plots larger can reduce the effect of local variation. Sometimes, however, one plot or a small group differs for a specific reason that first needs to be identified.
+      Making plots larger can reduce the effect of local variation.
+      Sometimes, however, one plot or a small group differs for a specific
+      reason that first needs to be identified.
     </p>
   </section>
 
   <section xml:id="sec-at-what-level-finding-the-cause-of-unusual-variation">
     <title>Finding the Cause of Unusual Variation</title>
+
     <p>
       <em>Source podcast: Unexplained Variability</em>
     </p>
+
+    <audio href="https://www.idems.international/podcast-player/9277/231-unexplained-variability.mp3" width="60%" />
+
     <p>
-      Making plots larger can reduce the effect of local variation. It cannot, however, explain why a particular plot or group of plots behaves very differently from the rest. Calling such an observation an outlier does not decide what should be done with it. The important question is why it differs. Roger captures this in the phrase <q>an outlier because.</q>
+      Making plots larger can reduce the effect of local variation.
+      It cannot, however, explain why a particular plot or group of plots
+      behaves very differently from the rest.
+      Calling such an observation an outlier does not decide what should be done
+      with it.
+      The important question is why it differs.
+      Roger captures this in the phrase <q>an outlier because.</q>
     </p>
+
     <p>
-      A trial conducted with Andreas Bürkert presented this problem. Andreas was then undertaking doctoral research and worked closely with Roger, learning statistics while Roger learned more about agriculture. The experiment contained about 48 plots. Roughly six produced unusually high yields.
+      A trial conducted with Andreas Bürkert presented this problem.
+      Andreas was then undertaking doctoral research and worked closely with
+      Roger, learning statistics while Roger learned more about agriculture.
+      The experiment contained about 48 plots.
+      Roughly six produced unusually high yields.
     </p>
+
     <p>
-      The explanation came from visiting the field and looking at the plots. The unusually vigorous plants were not scattered randomly. They occurred in two or three visible patches that crossed the planned plot boundaries. The history of the field supplied the reason. Termite mounds had previously occupied those areas. Although the mounds had been cleared, the soil remained unusually fertile.
+      The explanation came from visiting the field and looking at the plots.
+      The unusually vigorous plants were not scattered randomly.
+      They occurred in two or three visible patches that crossed the planned
+      plot boundaries.
+      The history of the field supplied the reason.
+      Termite mounds had previously occupied those areas.
+      Although the mounds had been cleared, the soil remained unusually fertile.
     </p>
+
     <p>
-      Yield in the affected plots was being driven more strongly by the legacy of the termite mounds than by the experimental treatments. The observations were real, but they did not provide the same evidence as the other plots. The yield values showed that the plots were unusual; seeing the patches and investigating the field history explained why.
+      Yield in the affected plots was being driven more strongly by the legacy
+      of the termite mounds than by the experimental treatments.
+      The observations were real, but they did not provide the same evidence as
+      the other plots.
+      The yield values showed that the plots were unusual; seeing the patches
+      and investigating the field history explained why.
     </p>
+
     <p>
-      An observation should not be separated merely because it is inconveniently high or low. Here, the former termite mounds provided a substantive reason. The unusual results had a <q>because.</q>
+      An observation should not be separated merely because it is inconveniently
+      high or low.
+      Here, the former termite mounds provided a substantive reason.
+      The unusual results had a <q>because.</q>
     </p>
   </section>
 
   <section xml:id="sec-at-what-level-a-clearer-result-and-its-limits">
     <title>A Clearer Result and Its Limits</title>
+
     <p>
       <em>Source podcast: Unexplained Variability</em>
     </p>
+
     <p>
-      Once an outlier has a <q>because,</q> researchers still need to decide what part it should play in the analysis. They often describe this as a choice between leaving it out and keeping it in. For Roger, the more useful question is whether the observation belongs in the same comparison as the other units. Treating it separately does not mean discarding it from the study.
+      Once an outlier has a <q>because,</q> researchers still need to decide
+      what part it should play in the analysis.
+      They often describe this as a choice between leaving it out and keeping it
+      in.
+      For Roger, the more useful question is whether the observation belongs in
+      the same comparison as the other units.
+      Treating it separately does not mean discarding it from the study.
     </p>
+
     <p>
-      In this case, the six termite-affected plots were left out of the main treatment comparison, and the remaining 42 were analysed together. Removing the plots left some treatments with fewer observations than others, making the experiment unbalanced, but the analysis could accommodate that. Preserving a neat design was less important than making a comparison whose meaning was clear.
+      In this case, the six termite-affected plots were left out of the main
+      treatment comparison, and the remaining 42 were analysed together.
+      Removing the plots left some treatments with fewer observations than
+      others, making the experiment unbalanced, but the analysis could
+      accommodate that.
+      Preserving a neat design was less important than making a comparison whose
+      meaning was clear.
     </p>
+
     <p>
-      By confining the analysis to the remaining 42 plots, the researchers obtain a clearer treatment comparison and make its boundary explicit. The result applies to non-termite areas and provides no guidance about which treatment performs best on former termite mounds. Analysing all 48 plots together would produce a more general result covering both conditions, but the treatment effects would be harder to interpret because the termite legacy dominates some of the yields.
+      By confining the analysis to the remaining 42 plots, the researchers
+      obtain a clearer treatment comparison and make its boundary explicit.
+      The result applies to non-termite areas and provides no guidance about
+      which treatment performs best on former termite mounds.
+      Analysing all 48 plots together would produce a more general result
+      covering both conditions, but the treatment effects would be harder to
+      interpret because the termite legacy dominates some of the yields.
     </p>
+
     <p>
-      The six affected plots are too few to determine which treatment performs best on former termite mounds, but they can still be examined as a small pilot. If they suggest that the treatments behave differently in those areas, a future study could include enough affected and unaffected plots to make termite history a factor in the design.
+      The six affected plots are too few to determine which treatment performs
+      best on former termite mounds, but they can still be examined as a small
+      pilot.
+      If they suggest that the treatments behave differently in those areas, a
+      future study could include enough affected and unaffected plots to make
+      termite history a factor in the design.
     </p>
+
     <p>
-      The same thinking can be applied to bird damage. Damage scattered across a few plots may obstruct the intended comparison. If it occurs mainly on one variety, however, the pattern may indicate that the variety is particularly vulnerable to birds. The damage may then become the start of a new research question rather than simply interfering with the experiment.
+      The same thinking can be applied to bird damage.
+      Damage scattered across a few plots may obstruct the intended comparison.
+      If it occurs mainly on one variety, however, the pattern may indicate that
+      the variety is particularly vulnerable to birds.
+      The damage may then become the start of a new research question rather
+      than simply interfering with the experiment.
     </p>
+
     <p>
-      The appropriate response to outliers depends on how many observations are affected and whether they form a pattern. A single outlier with a known cause can be reported and discussed separately. A small group can be examined together and may provide the beginnings of a pilot study. If the same condition affects enough observations to support a comparison, it can become a factor in the study rather than a reason for excluding individual units.
+      The appropriate response to outliers depends on how many observations are
+      affected and whether they form a pattern.
+      A single outlier with a known cause can be reported and discussed
+      separately.
+      A small group can be examined together and may provide the beginnings of a
+      pilot study.
+      If the same condition affects enough observations to support a comparison,
+      it can become a factor in the study rather than a reason for excluding
+      individual units.
     </p>
   </section>
 
   <section xml:id="sec-at-what-level-what-counts-as-one">
     <title>What Counts as One?</title>
+
     <p>
       <em>Source podcasts: Levels of Variability; Reflections on Next Steps; Unexplained Variability</em>
     </p>
+
     <p>
-      Understanding levels helps researchers distinguish variation within treatment units from variation among them. Tadpoles differ within a jar and plants differ within a plot, while differences among jars or plots affect the treatment comparison. The termite case adds another possibility: a source of variation that crosses the planned unit boundaries.
+      Understanding levels helps researchers distinguish variation within
+      treatment units from variation among them.
+      Tadpoles differ within a jar and plants differ within a plot, while
+      differences among jars or plots affect the treatment comparison.
+      The termite case adds another possibility: a source of variation that
+      crosses the planned unit boundaries.
     </p>
+
     <p>
-      Roger's question, <q>what is the unit to which I apply a treatment?</q>, is central to making these relationships clear. The appropriate level depends on what the research is trying to understand. Statistical principles can identify where replication is needed, while biology and common sense help determine whether the units make sense in practice.
+      Roger's question, <q>what is the unit to which I apply a treatment?</q>,
+      is central to making these relationships clear.
+      The appropriate level depends on what the research is trying to
+      understand.
+      Statistical principles can identify where replication is needed, while
+      biology and common sense help determine whether the units make sense in
+      practice.
     </p>
+
     <p>
-      Experience from one trial may lead researchers to change the size or definition of the unit in the next. This changes how variability is distributed within and among units and can therefore change what David calls <q>the nature of the variability and the reliability of your result.</q>
+      Experience from one trial may lead researchers to change the size or
+      definition of the unit in the next.
+      This changes how variability is distributed within and among units and can
+      therefore change what David calls
+      <q>the nature of the variability and the reliability of your result.</q>
     </p>
+
     <p>
-      These distinctions need to remain visible when the data are prepared for analysis. A spreadsheet may contain one row for every tadpole or plant, but unless each observation is linked to its jar or plot, the analyst cannot tell which measurements belong within the same treatment unit. Recording those links keeps the measurements connected to the structure of the study.
+      These distinctions need to remain visible when the data are prepared for
+      analysis.
+      A spreadsheet may contain one row for every tadpole or plant, but unless
+      each observation is linked to its jar or plot, the analyst cannot tell
+      which measurements belong within the same treatment unit.
+      Recording those links keeps the measurements connected to the structure of
+      the study.
     </p>
   </section>
-
 </chapter>
