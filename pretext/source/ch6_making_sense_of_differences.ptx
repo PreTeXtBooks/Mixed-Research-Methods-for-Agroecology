@@ -1,25 +1,563 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- DRAFT PLACEHOLDER: summary and source notes only; chapter text still to be written. -->
 <chapter xml:id="ch-making-sense-of-differences" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Making Sense of Differences</title>
+  <title>Making Sense of Variation</title>
 
   <introduction>
     <p>
-      The pearl-millet field study shows how investigating field history and early growth can change the interpretation of treatment responses. Farmer-organisation groupings reveal another potentially informative structure. Zeros receive an explicit section: survival and growth, or livestock ownership and number owned, describe different processes that an average can conceal. Descriptive ANOVA supports the distinction between accounting for variation and establishing causation.
+      Variation is how observations differ from one another.
+      If each treatment always gave the same yield, one plot per treatment would
+      be enough to tell which yielded more.
+      In practice, one plot may yield more than another because of the
+      treatment, because of its growing conditions, or both.
+      As Chapter 5 showed, replication helps researchers judge a difference
+      between treatments against the variation among plots given the same
+      treatment.
+    </p>
+
+    <p>
+      We examine variation to judge what a comparison can tell us and to learn
+      from differences that an average alone cannot describe.
+      Accounting for relevant differences in growing conditions can help
+      estimate a treatment effect more precisely.
+      The analysis may also reveal that the treatment works differently under
+      different conditions.
+    </p>
+
+    <p>
+      When researchers brought Roger Stern their data for analysis, he would
+      ask, <q>Can you show me the objectives?</q>
+      Some were surprised.
+      They had already done the study and wanted him to analyse the results.
+      For Roger, the objectives were where that work began.
+      Which questions could the data still answer?
+      Had anything emerged that was worth investigating?
+    </p>
+
+    <p>
+      Analysis is how researchers make sense of variation.
+      The same observations can be grouped and summarised in several ways, each
+      revealing something different about the data.
+      Modelling establishes how much variation the recorded information accounts
+      for.
+      The study objectives guide how observations should be grouped, summarised
+      and modelled.
+      These choices help distinguish what can be attributed to a treatment or
+      the setting and what remains unaccounted for.
+    </p>
+
+    <p>
+      The variation that remains is also a source of information.
+      When the remaining variation follows a pattern, the next question is
+      whether that pattern matters to the original comparison.
+      Taking it into account may make the result clearer or change the
+      conclusion.
+      Sometimes its main value is to show what could be investigated next.
     </p>
   </introduction>
 
-  <section xml:id="sec-making-sense-of-differences-source-notes">
-    <title>Source notes</title>
+  <section xml:id="sec-making-sense-of-differences-informative-grouping">
+    <title>Finding an Informative Grouping</title>
+
     <p>
-      <alert>Main transcripts:</alert> Unexplained Variability; RMS and Multilevel Data; RMS and the Problem of Zeros; Episode 233 Analysis of Variance as a Descriptive Tool.
+      <em>Source podcast: RMS and Multilevel Data</em>
     </p>
+
+    <audio href="https://www.idems.international/podcast-player/13748/291-understanding-multilevel-data-through-context.mp3" width="60%" />
+
     <p>
-      <alert>Supporting:</alert> On-station Agricultural Trials; Measurements.
+      While working with researchers from millet trials in Niger, David
+      encountered yields that varied widely from plot to plot.
+      The study involved thousands of farmers, but information about individual
+      farms was limited.
+      The records did, however, identify each farmer's organisation as the data
+      had come through a farmer federation.
+      They chose to group the data by farmer organisation.
+      This revealed a pattern: yields were relatively similar within groups but
+      differed markedly between them.
     </p>
+
     <p>
-      <alert>Key documentary source:</alert> Buerkert, Stern and Marschner (1995) governs the pearl-millet study's documented design and analysis where later recollections differ.
+      Knowing the groups helped interpret the pattern.
+      Some were women's groups whose members helped one another manage fields to
+      feed their families.
+      Others brought farmers together to pool millet for sale.
+      The women's groups described in this account had limited access to good
+      land and inputs, while some commercially oriented groups had better land
+      and used fertiliser.
+      Organisation membership connected the plot yields to these farming
+      circumstances, even where detailed information about farms was limited.
+    </p>
+
+    <p>
+      A yield that looked low across the full dataset could be typical among
+      members of that farmer's organisation.
+      Grouping made that distinction visible.
+      Part of the overall spread lay between organisations, and part remained
+      among farmers in the same organisation.
+      In this sense, organisation membership helped account for variation.
+    </p>
+
+    <p>
+      Accounting for variation is distinct from explaining what caused it.
+      An organisation may bring together farmers who already have good land and
+      access to inputs, or it may help members obtain those resources.
+      Either could produce a pattern of higher yields among its members.
+      The yield comparison alone cannot distinguish these possibilities or
+      establish that joining the organisation would increase another farmer's
+      yield.
+    </p>
+
+    <p>
+      Membership was already part of how the federation organised its records.
+      A researcher collecting plot measurements independently might have
+      overlooked it.
+      In trials across diverse farms, deciding which farming circumstances may
+      help account for differences in yield can guide what to record and link to
+      each plot.
+    </p>
+
+    <p>
+      The yields could also have been grouped by village.
+      Village could be informative where farmers share conditions relevant to
+      the results, such as soil fertility or access to roads and inputs.
+      However, in this case several organisations may operate within one
+      village, and an organisation may span several villages.
+      Therefore grouping by village would have made the pattern associated with
+      farmer organisation harder to see.
+    </p>
+
+    <p>
+      The same reasoning applies at a wider scale.
+      An administrative region provides one way to group farms, but an
+      agroecological zone may better represent the rainfall conditions under
+      which crops are grown.
+      If rainfall is important to interpreting yield variation, that
+      classification may be more informative than an administrative boundary.
+    </p>
+
+    <p>
+      Neither grouping is automatically better.
+      The choice depends on what each represents.
+      David encourages people to consider: <q>what is it that you actually want
+      to capture?</q>
+    </p>
+  </section>
+
+  <section xml:id="sec-making-sense-of-differences-zeros">
+    <title>Zeros and the Mean of What?</title>
+
+    <introduction>
+
+      <p>
+      <em>Source podcasts: RMS and the Problem of Zeros; Levels of Variability</em>
+      </p>
+
+      <audio href="https://www.idems.international/podcast-player/14898/293-the-problem-of-zeros-in-data.mp3" width="60%" />
+
+      <audio href="https://www.idems.international/podcast-player/8019/182-twenty-years-of-rms-for-crfs-levels-of-variability.mp3" width="60%" />
+
+      <p>
+      Calculating a mean or a standard deviation can be straightforward.
+      Deciding which observations to include requires thought, because that
+      choice determines what the summary represents.
+      <q>The mean of what?</q> is a simple but important question.
+      It asks researchers to identify what they are averaging and which
+      population the figure describes.
+      </p>
+
+      <p>
+      In the Niger trials, the federation's records supplied the grouping.
+      Sometimes the observations themselves suggest a grouping.
+      Roger uses a small teaching example.
+      Six farmers have 0, 10, 0, 15, 0 and 20 animals.
+      The zeros identify the farmers who own no livestock.
+      </p>
+
+      <p>
+      Together the six farmers own 45 animals.
+      Dividing by six gives a mean of 7.5 animals per farmer.
+      That figure is useful when the enquiry concerns livestock numbers across
+      all farmers.
+      Grouping the farmers by ownership describes two other features of the same
+      data: half the farmers own livestock, and those who do have 15 animals on
+      average.
+      </p>
+
+      <p>
+      The same choice matters when examining spread.
+      A standard deviation calculated across all six farmers combines the
+      difference between having animals and having none with differences in herd
+      size among owners.
+      Reporting ownership separately makes the first feature visible.
+      Among owners, herd sizes range from 10 to 20 animals.
+      </p>
+
+      <p>
+      Grouping by ownership helps account for some of the variation and raises
+      two more specific questions.
+      Why do some farmers own livestock?
+      What accounts for differences in herd size among those who do?
+      Roger welcomes variability for this reason.
+      <q>I like a lot of spread in my data because then I've got something to
+      explain.</q>
+      </p>
+    </introduction>
+
+    <subsection xml:id="subsec-making-sense-of-differences-complementary-summaries">
+      <title>Retaining Complementary Summaries</title>
+
+      <p>
+        In a field study Roger recalls, the researchers had measured total plot
+        yield and wanted to calculate average yield per plant.
+        Each plot started with 100 plants, but some died.
+        If 25 plants died, should the researchers divide the yield by the
+        original 100 or by the 75 survivors?
+      </p>
+
+      <p>
+        Dividing by 100 gives production per plant originally planted, including
+        the loss associated with the deaths.
+        Dividing by 75 gives production per surviving plant.
+        Two plots can have the same yield per surviving plant and quite
+        different total yields if more plants died in one of them.
+      </p>
+
+      <p>
+        Roger suggested keeping both calculations and recording how many plants
+        died.
+        As Chapter 4 argued, an additional measurement earns its place through
+        what it allows a study to establish.
+        Here, the death counts would show the proportion of plants that survived
+        and help the team examine whether differences in total yield reflected
+        survival, production among survivors or both.
+      </p>
+
+      <p>
+        The original question about production still mattered, and the deaths
+        had raised a further question of their own.
+        Recording how many plants died in each plot would let the team compare
+        varieties on survival as well as yield.
+        If some varieties lost fewer plants than others, the team could
+        investigate why.
+        If disease proved to be the cause, better survival could point to
+        varieties that were less susceptible.
+      </p>
+
+      <p>
+        Roger's advice is to always ask what the zeros represent and consider
+        what might be learned from them.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-making-sense-of-differences-anova">
+    <title>Analysis of Variance as a Descriptive Tool</title>
+
+    <introduction>
+
+      <p>
+      <em>Source podcasts: 151 — Data Variability; 232 — ANOVA and Degrees of Freedom; 233 — Analysis of Variance as a Descriptive Tool</em>
+      </p>
+
+      <audio href="https://www.idems.international/podcast-player/7181/151-data-variability.mp3" width="60%" />
+
+      <audio href="https://www.idems.international/podcast-player/9291/232-anova-and-degrees-of-freedom.mp3" width="60%" />
+
+      <audio href="https://www.idems.international/podcast-player/9305/233-an-analysis-of-anova-as-a-descriptive-tool.mp3" width="60%" />
+
+      <p>
+      The separate summaries show how survival and production among survivors
+      can both contribute to differences in total yield.
+      When several variables may account for the same differences in the data, a
+      model can help show what each adds.
+      </p>
+
+      <p>
+      While supporting research in Burkina Faso, David encountered a student
+      struggling to interpret an on-station experiment.
+      The software he was using encouraged him to analyse one or two variables
+      at a time.
+      When more of the available information was considered together, the
+      results became more intelligible.
+      </p>
+
+      <p>
+      This illustrates an important use of analysis of variance, or ANOVA.
+      Attention often goes straight to whether a result is statistically
+      significant, but ANOVA also helps us explore what accounts for the
+      variation we see.
+      </p>
+    </introduction>
+
+    <subsection xml:id="subsec-making-sense-of-differences-what-information-accounts-for">
+      <title>What does the available information account for?</title>
+
+      <p>
+        A model is simply a description of the data.
+        The simplest model gives every field the same average yield.
+        Including variety in the model would give a separate average for each
+        variety.
+        If those averages differ, they give a closer description of the
+        measured yields than one overall average.
+      </p>
+
+      <p>
+        ANOVA measures how much this improves the description and how much
+        variation remains.
+        For example, adding fertiliser to a model that already includes variety
+        shows how much more of the yield differences it accounts for.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-making-sense-of-differences-what-each-variable-adds">
+      <title>What does each variable add?</title>
+
+      <p>
+        David uses a teaching game involving village, crop variety and
+        fertiliser to show how recorded information can overlap.
+        A model that includes village alone shows substantial differences in
+        average yield between villages.
+        Knowing which village a field belongs to tells us something about its
+        yield.
+      </p>
+
+      <p>
+        Adding variety and fertiliser after village accounts for some of the
+        variation that remains.
+        That raises a further question.
+        How much does village add if variety and fertiliser go into the model
+        first?
+      </p>
+
+      <p>
+        With variety and fertiliser already in the model, adding village
+        accounts for little further variation.
+        The varieties farmers grew and the amounts of fertiliser they used
+        already account for most of the difference between village averages.
+      </p>
+
+      <p>
+        In a sequential ANOVA table, changing the order of the variables reveals
+        where their contributions overlap.
+        The full model, containing all three variables, gives the same predicted
+        yield for each field and leaves the same variation unaccounted for in
+        either order.
+        What changes is how the table assigns the contribution they share.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-making-sense-of-differences-how-much-detail">
+      <title>How much detail is useful?</title>
+
+      <p>
+        Choosing which variables to include still leaves a choice about how to
+        represent them.
+        With fertiliser, a straight line describes yield as changing by a steady
+        amount for each additional unit applied.
+        Estimating a separate average yield for each rate allows a more varied
+        response.
+        Yields might rise at low rates, then level off or fall at higher rates.
+        That is an important consideration when deciding whether applying more
+        fertiliser is likely to increase yield.
+      </p>
+
+      <p>
+        The comparison uses both versions of fertiliser in the same model.
+        The numerical version enters first to fit the straight-line trend,
+        followed by fertiliser as a factor with a separate level for each rate.
+        The sequential ANOVA shows how much additional variation the separate
+        averages account for beyond the straight line.
+      </p>
+
+      <p>
+        The amount of detail affects how many values the model has to estimate.
+        A straight line needs two values, its height and slope.
+        Giving each of the seven fertiliser rates its own average requires
+        seven.
+        The separate averages therefore use five more degrees of freedom,
+        leaving fewer for estimating the spread around them.
+      </p>
+
+      <p>
+        For a step by step activity using ANOVA to explore data, see the
+        <em>Taming the Analysis of Variance</em> exercise.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-making-sense-of-differences-what-remains">
+    <title>What Remains Unaccounted For?</title>
+
+    <introduction>
+
+      <p>
+      <em>Source podcasts: <url href="https://www.idems.international/podcast/151-data-variability/">151: Data Variability</url>; <url href="https://www.idems.international/podcast/233-an-analysis-of-anova-as-a-descriptive-tool/">233: An Analysis of ANOVA as a Descriptive Tool</url>.
+      Study: Buerkert, Stern and Marschner (1995), <url href="https://doi.org/10.2134/agronj1995.00021962008700040024x">Post Stratification Clarifies Treatment Effects on Pearl Millet Growth in the Sahel</url>.</em>
+      </p>
+
+      <p>
+      Residual variation is often treated as what remains after the interesting
+      work has been completed.
+      Yet examining what the model leaves unaccounted for is part of judging the
+      analysis.
+      A residual is the difference between an observed value and the value
+      fitted by the model.
+      </p>
+
+      <p>
+      Some spread is expected even when observations are made under similar
+      conditions.
+      Measurement error, differences in growing conditions and relationships the
+      model has missed can also contribute.
+      Earlier studies that measured similar outcomes under comparable conditions
+      can give a sense of how much spread to expect.
+      </p>
+
+      <p>
+      Looking at the individual residuals shows whether the spread comes from a
+      few large differences or many smaller ones.
+      A few observations that lie far above or below their fitted values can
+      account for as much residual variation as many smaller differences.
+      These unusually large residuals can flag possible outliers.
+      As Chapter 5 showed, returning to the original records to find out what
+      happened can help researchers decide how to treat those observations in
+      the analysis.
+      </p>
+
+      <p>
+      If a group of observations tends to fall above or below the values fitted
+      by the model, researchers can ask what those observations have in common.
+      They may already have information that helps account for the pattern, or
+      they may learn more by returning to the field or speaking with farmers.
+      What they learn may change how they interpret the original comparison.
+      The pattern may also point to a question that needs further evidence.
+      </p>
+    </introduction>
+
+    <subsection xml:id="subsec-making-sense-of-differences-mapping-residuals">
+      <title>Mapping Residuals</title>
+
+      <p>
+        In a three-year pearl-millet trial at Sadoré, Niger, researchers tested
+        several factors together, including crop residues, phosphorus and millet
+        variety.
+        They compared two rates of millet stalks spread on the soil surface, 500
+        and 2,000 kilograms per hectare.
+        Both rates were tested with and without added phosphorus.
+      </p>
+
+      <p>
+        The field looked fairly uniform before the trial, apart from a few
+        patches where the soil differed in colour.
+        Once the millet began growing, plants in some parts of the field grew
+        much better than others.
+        How much of that difference came from the treatments, and how much
+        reflected conditions in the field?
+      </p>
+
+      <p>
+        After the first harvest, they compared each plot's grain yield with the
+        average for its treatment combination.
+        They marked each residual on a field map.
+        The map revealed a pattern from west to east.
+        Accounting for plot location reduced the remaining variation in grain
+        yield, and the original treatment comparison held up.
+      </p>
+
+      <p>
+        The pattern also raised a question for further investigation.
+        Could a neighbouring fallow area to the west have sheltered a crop pest
+        that contributed to the differences in yield?
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-making-sense-of-differences-where-treatments-helped">
+      <title>Where Did the Treatments Help?</title>
+
+      <p>
+        They used the same approach to calculate residuals for early growth.
+        Early in the first season, with the treatments already in place, they
+        had scored how well the millet was growing.
+        They compared each plot's score with the average for the two plots that
+        had received the same treatment combination.
+        This gave them an indication of how well each plot supported growth
+        after allowing for the treatment it had received.
+      </p>
+
+      <p>
+        They used each plot's early-growth residual when they analysed the grain
+        and straw harvested from that plot.
+        In the first year, this helped account for some of the differences in
+        yield among plots given the same treatment.
+        With less variation left unaccounted for, they could judge the treatment
+        effects more precisely and address the trial's original question.
+      </p>
+
+      <p>
+        The early-growth residuals also raised a new question.
+        Did the treatments help to the same extent on more and less productive
+        plots?
+        They ranked the plots by their first-year early-growth residuals,
+        divided the ranking in half and made the same treatment comparisons
+        within each group.
+        In the first two years, the higher rate of crop residues increased grain
+        yield by an average of 48 per cent and straw yield by 42 per cent in the
+        less productive plots.
+        It made little difference in the more productive plots.
+        Phosphorus helped in both groups.
+        Why some plots were more productive remained a separate question.
+      </p>
+    </subsection>
+  </section>
+
+  <section xml:id="sec-making-sense-of-differences-making-analysis-useful">
+    <title>Making the Analysis Useful</title>
+
+    <p>
+      Making sense of variation means figuring out what the differences in the
+      data represent and what they let us say about the question we're asking.
+      Once you have a result, ask what else you know that might help you
+      understand it better.
+    </p>
+
+    <p>
+      A low millet yield might stand out when you look across all farms and look
+      quite ordinary alongside yields from other members of the same farmer
+      organisation.
+      If two plots gave different harvests, knowing how many plants survived can
+      help you see whether one plot had fewer plants at harvest or whether its
+      surviving plants yielded less.
+    </p>
+
+    <p>
+      At Sadoré, taking plot location into account helped account for some of
+      the spread in grain yields, and the treatment comparison held up.
+      The early-growth scores let the team ask whether the treatment worked as
+      well on more productive plots as on less productive ones.
+      That comparison showed where the extra crop residues helped most.
+    </p>
+
+    <p>
+      Go back to the question you started with and ask whether you would now
+      give the same answer.
+      If the treatment helped mainly under particular conditions, say which
+      ones.
+      If you can see where a difference occurs and its cause is still uncertain,
+      describe what you found.
+      That gives the next study a more precise question to ask.
+    </p>
+  </section>
+
+  <section xml:id="sec-making-sense-of-differences-reference">
+    <title>Reference</title>
+
+    <p>
+      Buerkert, A., Stern, R. D. and Marschner, H. (1995).
+      Post stratification clarifies treatment effects on pearl millet growth in
+      the Sahel.
+      <em>Agronomy Journal</em>, 87(4), 752–761.
+      <url href="https://doi.org/10.2134/agronj1995.00021962008700040024x">https://doi.org/10.2134/agronj1995.00021962008700040024x</url>
     </p>
   </section>
 </chapter>
